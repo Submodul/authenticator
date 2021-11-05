@@ -36,8 +36,8 @@ plugins:
 
 relative_permalinks: false
 
-includes_dir: submodul
-layouts_dir: submodul
+includes_dir: submodul/_includes
+layouts_dir: submodul/_layouts
 
 # Exclude from processing.
 # The following items will not be processed, by default.
